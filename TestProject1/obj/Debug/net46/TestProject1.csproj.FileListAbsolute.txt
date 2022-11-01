@@ -1,0 +1,15 @@
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\NUnit3.TestAdapter.dll
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\NUnit3.TestAdapter.pdb
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\nunit.engine.dll
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\nunit.engine.api.dll
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\TestProject1.dll
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\TestProject1.pdb
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\bin\Debug\net46\nunit.framework.dll
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\obj\Debug\net46\TestProject1.csproj.AssemblyReference.cache
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\obj\Debug\net46\TestProject1.AssemblyInfoInputs.cache
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\obj\Debug\net46\TestProject1.AssemblyInfo.cs
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\obj\Debug\net46\TestProject1.csproj.CoreCompileInputs.cache
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\obj\Debug\net46\TestProject1.csproj.CopyComplete
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\obj\Debug\net46\TestProject1.dll
+D:\Rider\workspace\TestProject2\TestProject1\TestProject1\obj\Debug\net46\TestProject1.pdb
